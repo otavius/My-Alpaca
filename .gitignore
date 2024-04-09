@@ -1,0 +1,5 @@
+.DS_Store
+.venv
+__pycache__
+config/paper_account.py 
+config/real_account.py 
